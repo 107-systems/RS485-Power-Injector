@@ -483,6 +483,7 @@
 
 
   (no_connect (at 76.2 194.31) (uuid 208ff8f6-3618-40d8-bc40-d2737123b2d6))
+  (no_connect (at 57.15 109.22) (uuid 3fa0c1d2-92ed-49f1-a1a9-a592e38c2bf7))
   (no_connect (at 50.8 194.31) (uuid 9054f9f7-1fe7-4327-8042-573500eaf064))
   (no_connect (at 25.4 194.31) (uuid ab6d2b2f-9199-48c4-9d03-c3b684ebefec))
   (no_connect (at 101.6 194.31) (uuid f529a164-7f0a-423a-ab11-f393baf5bf46))
@@ -711,7 +712,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 25.4 191.77 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 0f7a0782-5c93-425e-9bb2-af249e5413b1)
     (property "Reference" "H1" (id 0) (at 27.94 189.2299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -719,7 +720,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 27.94 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 25.4 191.77 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (id 2) (at 25.4 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 25.4 191.77 0)
@@ -729,7 +730,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 76.2 191.77 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 1a89f90c-ae34-4a19-bdb2-498363cb9261)
     (property "Reference" "H3" (id 0) (at 78.74 189.2299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -737,7 +738,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 78.74 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 76.2 191.77 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (id 2) (at 76.2 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.2 191.77 0)
@@ -878,7 +879,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 101.6 191.77 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 549e08a5-626b-4ce1-b4f2-0dc3abb4166a)
     (property "Reference" "H4" (id 0) (at 104.14 189.2299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -886,7 +887,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 104.14 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 101.6 191.77 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (id 2) (at 101.6 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 191.77 0)
@@ -1048,7 +1049,7 @@
     (uuid a191106d-6f54-4859-9ae7-7e90c19ff902)
     (property "Reference" "D1" (id 0) (at 118.0465 60.96 0))
     (property "Value" "LED green" (id 1) (at 118.0465 63.5 0))
-    (property "Footprint" "" (id 2) (at 118.11 67.31 90)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 118.11 67.31 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 118.11 67.31 90)
@@ -1059,7 +1060,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 50.8 191.77 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a24d063b-8999-4513-be31-467144dda607)
     (property "Reference" "H2" (id 0) (at 53.34 189.2299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1067,7 +1068,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 53.34 191.7699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 50.8 191.77 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (id 2) (at 50.8 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 50.8 191.77 0)
@@ -1161,7 +1162,7 @@
     (uuid d10997a4-c66c-4c0c-b0e2-7abe2be8864b)
     (property "Reference" "R1" (id 0) (at 107.95 60.96 90))
     (property "Value" "10k" (id 1) (at 107.95 63.5 90))
-    (property "Footprint" "" (id 2) (at 107.95 67.31 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 107.95 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.95 67.31 0)
@@ -1247,19 +1248,19 @@
       (reference "C2") (unit 1) (value "C_Polarized") (footprint "Capacitor_SMD:CP_Elec_10x14.3")
     )
     (path "/a191106d-6f54-4859-9ae7-7e90c19ff902"
-      (reference "D1") (unit 1) (value "LED green") (footprint "")
+      (reference "D1") (unit 1) (value "LED green") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/0f7a0782-5c93-425e-9bb2-af249e5413b1"
-      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "")
+      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/a24d063b-8999-4513-be31-467144dda607"
-      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "")
+      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/1a89f90c-ae34-4a19-bdb2-498363cb9261"
-      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "")
+      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/549e08a5-626b-4ce1-b4f2-0dc3abb4166a"
-      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "")
+      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/9cff36d3-3837-47cf-8e03-52d1bf5a2a97"
       (reference "J1") (unit 1) (value "PowerPole") (footprint "generationmake:POWERPOLE_hor_2")
@@ -1280,7 +1281,7 @@
       (reference "J6") (unit 1) (value "EH_S4B-EH") (footprint "Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal")
     )
     (path "/d10997a4-c66c-4c0c-b0e2-7abe2be8864b"
-      (reference "R1") (unit 1) (value "10k") (footprint "")
+      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
   )
 )
