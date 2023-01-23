@@ -1235,7 +1235,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 03f26ee5-8d2d-4291-a112-e75fe2ac42e3)
     (property "Reference" "J7" (id 0) (at 55.88 153.67 0))
-    (property "Value" "Conn_01x04" (id 1) (at 55.88 156.21 0))
+    (property "Value" "DNI" (id 1) (at 55.88 156.21 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 55.88 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1481,7 +1481,7 @@
   )
 
   (symbol (lib_id "generationmake:Label") (at 220.98 161.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 488632c7-5f7a-471c-803a-f79bff4377f3)
     (property "Reference" "L3" (id 0) (at 224.79 160.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1526,7 +1526,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 52a8ea43-f624-436f-915f-cf8b98734f55)
     (property "Reference" "J2" (id 0) (at 50.8 54.61 0))
-    (property "Value" "Conn_01x02" (id 1) (at 50.8 57.15 0))
+    (property "Value" "DNI" (id 1) (at 50.8 57.15 0))
     (property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal" (id 2) (at 50.8 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1572,7 +1572,7 @@
   )
 
   (symbol (lib_id "generationmake:Label") (at 220.98 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 596febd3-735f-46f0-9b2c-645cbbeb4795)
     (property "Reference" "L4" (id 0) (at 224.79 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1656,7 +1656,7 @@
   )
 
   (symbol (lib_id "generationmake:Label") (at 220.98 152.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 67c03991-fb90-4020-88f4-cc1f78c8a305)
     (property "Reference" "L2" (id 0) (at 224.79 151.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1708,7 +1708,7 @@
   )
 
   (symbol (lib_id "generationmake:Label") (at 220.98 143.51 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 70777226-db48-4e47-af4f-24cdf1be9e26)
     (property "Reference" "L1" (id 0) (at 224.79 142.2399 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1923,7 +1923,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c10ca67c-2bfd-4004-97ed-36a6e46014de)
     (property "Reference" "J3" (id 0) (at 52.07 78.74 0))
-    (property "Value" "Conn_01x03" (id 1) (at 52.07 81.28 0))
+    (property "Value" "DNI" (id 1) (at 52.07 81.28 0))
     (property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_3-G-3.5_1x03_P3.50mm_Horizontal" (id 2) (at 52.07 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2263,10 +2263,10 @@
       (reference "J1") (unit 1) (value "PowerPole") (footprint "generationmake:POWERPOLE_hor_2")
     )
     (path "/52a8ea43-f624-436f-915f-cf8b98734f55"
-      (reference "J2") (unit 1) (value "Conn_01x02") (footprint "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal")
+      (reference "J2") (unit 1) (value "DNI") (footprint "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal")
     )
     (path "/c10ca67c-2bfd-4004-97ed-36a6e46014de"
-      (reference "J3") (unit 1) (value "Conn_01x03") (footprint "Connector_Phoenix_MC:PhoenixContact_MC_1,5_3-G-3.5_1x03_P3.50mm_Horizontal")
+      (reference "J3") (unit 1) (value "DNI") (footprint "Connector_Phoenix_MC:PhoenixContact_MC_1,5_3-G-3.5_1x03_P3.50mm_Horizontal")
     )
     (path "/5f34de6b-0e22-4f3c-89e9-d3cc7be38d5f"
       (reference "J4") (unit 1) (value "SM04B-GHS-TB") (footprint "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal")
@@ -2278,7 +2278,7 @@
       (reference "J6") (unit 1) (value "EH_S4B-EH") (footprint "Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal")
     )
     (path "/03f26ee5-8d2d-4291-a112-e75fe2ac42e3"
-      (reference "J7") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J7") (unit 1) (value "DNI") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/70777226-db48-4e47-af4f-24cdf1be9e26"
       (reference "L1") (unit 1) (value "Label") (footprint "generationmake:generationmake_small_solder")
