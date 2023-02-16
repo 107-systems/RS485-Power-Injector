@@ -13,6 +13,17 @@ This repository contains the design files for [L3X-Z](https://github.com/107-sys
   <img src="docs/images/RS485-Power-Injector_rendering.png" width="50%">
 </p>
 
+## enclosure
+
+There exists a 3D printable enclosure to encapsulate the PCB.
+
+### standard
+
+<p align="center">
+  <img src="docs/images/RS485-Power-Injector_enclosure.png" width="50%">
+</p>
+
+
 ## PCB
 ### Top
 <p align="center">
