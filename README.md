@@ -9,3 +9,14 @@ This repository contains the design files for [L3X-Z](https://github.com/107-sys
   <a href="https://github.com/107-systems/l3xz"><img src="https://raw.githubusercontent.com/107-systems/.github/main/logo/l3xz-logo-memento-mori-github.png" width="40%"></a>
 </p>
 
+![l3xz-hw-rs485-power-injector rendering](docs/images/l3xz-hw-rs485-power-injector_rendering.png)
+
+## PCB
+
+### Top
+
+![l3xz-hw-rs485-power-injector PCB top](docs/images/l3xz-hw-rs485-power-injector_top.png)
+
+### Bottom
+
+![l3xz-hw-rs485-power-injector PCB bot](docs/images/l3xz-hw-rs485-power-injector_bot.png)
