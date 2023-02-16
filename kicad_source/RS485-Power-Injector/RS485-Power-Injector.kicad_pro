@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "l3xz-hw-rs485-power-injector.kicad_pro",
+    "filename": "RS485-Power-Injector.kicad_pro",
     "version": 1
   },
   "net_settings": {

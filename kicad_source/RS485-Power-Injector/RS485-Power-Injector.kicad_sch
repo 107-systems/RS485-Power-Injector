@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "l3xz-hw-rs485-power-injector")
+    (title "RS485-Power-Injector")
     (date "2023-01-23")
     (rev "0.1")
     (company "107-systems")
