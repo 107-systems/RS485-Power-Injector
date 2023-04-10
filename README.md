@@ -13,7 +13,7 @@ This repository contains the design files for [L3X-Z](https://github.com/107-sys
   <img src="docs/images/RS485-Power-Injector_rendering.png" width="50%">
 </p>
 
-## debug circuitry
+## Debug circuitry
 
 This board contains a circuit with a RS485 driver to drive a LED to show bus activity. This circuit can also be used to interface the RS485 bus to a controller or computer. The circuit can be used with 3.3V and 5V levels. Some parts need to be changed to achieve this.
 
@@ -22,7 +22,7 @@ This board contains a circuit with a RS485 driver to drive a LED to show bus act
 | U1             | L78L33ACUTR      | L78L05ACUTR    |
 | U2             | SP3485EN-L       | SN75176AD      |
 
-## connectors
+## Connectors
 
 ### Power Input J1
 Anderson Power Pole
@@ -84,11 +84,11 @@ Pin header 2.54mm 4-pin.
 | 4       | GND           |                              |
 
 
-## enclosure
+## Enclosure
 
 There exists a 3D printable enclosure to encapsulate the PCB.
 
-### standard
+### Standard
 
 <p align="center">
   <img src="docs/images/RS485-Power-Injector_enclosure.png" width="50%">
