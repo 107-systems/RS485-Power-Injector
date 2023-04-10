@@ -62,7 +62,7 @@ JST GH 1.25mm 4-pin.
 | 4       | GND           |                              |
 
 ### Dynamixel connectors J5 and J6
-In the Dynamixel world there exist two type of connectors: Molex Mini-SPOX (https://www.molex.com/molex/products/part-detail/pcb_headers/0022035045) and JST EH (https://www.jst-mfg.com/product/pdf/eng/eEH.pdf)
+In the Dynamixel world there exist two type of connectors: [Molex Mini-SPOX](https://www.molex.com/molex/products/part-detail/pcb_headers/0022035045) and [JST EH](https://www.jst-mfg.com/product/pdf/eng/eEH.pdf)
 
 Both are 2.5 mm pitch and use the same pin out and both can be mounted on the board. So you can decide which one to use and which fits your application and servo.
 
